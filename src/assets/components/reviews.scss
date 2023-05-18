@@ -10,8 +10,8 @@
       display: flex;
       flex-direction: column;
       gap: 20px;
+      max-width: 400px;
       &__title {
-        max-width: 400px;
         font-family: "Playfair Display", serif;
         font-style: normal;
         font-weight: 400;
